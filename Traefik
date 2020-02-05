@@ -1,0 +1,7 @@
+
+pour reverse proxy  d ip conteneur 
+
+les conteneurs ont des adresses ip pas static si on redémarre  un conteneur on est pas sur d'avoir la meme ip 
+
+reverse proxy pour docker 
+   url => conteneur         on lui donne l'url  vers quel service 
