@@ -1,0 +1,14 @@
+[
+  '{{repeat(500000)}}',
+  {
+    index: '{{index()}}',
+    gains: '{{"gh"}}',
+    client: '{{"bz"}}',
+    date_used: '{{"dus"}}',
+    date_expired: '{{"dex"}}',
+    isUsed: '{{bool()}}',
+    code: '{{integer(100, 9999999999)}}'
+   
+
+  }
+]
